@@ -1,2 +1,2 @@
 # RandomPasswordGen
-Download the file to check the code
+Download the raw file to check the code
